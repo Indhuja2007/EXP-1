@@ -46,14 +46,8 @@ b.Kirchhoff's Current Law
 
 
 CIRCUIT DIAGRAM:
-
-
 a.   KVL:
 <img width="1920" height="1080" alt="Screenshot (52)" src="https://github.com/user-attachments/assets/98a8973a-e267-414f-a26a-2f0263cf7b9f" />
-
- 
-
-
 b.  KCL:
 <img width="1920" height="1080" alt="Screenshot (53)" src="https://github.com/user-attachments/assets/b284a471-93af-4b37-ab9e-995afe21f337" />
 
